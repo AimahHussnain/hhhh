@@ -1,0 +1,5 @@
+class cow:
+    def cow(self):
+        print("Moo! Moo!")
+m = cow()
+m . cow()
