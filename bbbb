@@ -1,0 +1,5 @@
+class duck:
+    def duck(self):
+        print("Coak! Coak!")
+d = duck()
+d . duck()
