@@ -1,0 +1,11 @@
+class Bird:
+    def fly(self):
+        print("I can fly!")
+
+class Crow(Bird):
+    def talk(self):
+        print("I Can Scare Sparrows!")
+
+my_crow = Crow()
+my_crow.fly()  
+my_crow.talk()
