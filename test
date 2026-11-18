@@ -1,0 +1,2 @@
+class Book:
+    class def__init__(self,title,auther is__borrowed):
